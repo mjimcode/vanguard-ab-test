@@ -53,3 +53,10 @@ Three datasets were provided to conduct the analysis:
 ## Conclusion
 
 This project assesses whether Vanguard’s new UI design led to higher completion rates using statistical analysis, performance metrics, and hypothesis testing. Through data visualization in Tableau, we aim to provide clear insights into user behavior and the effectiveness of the redesign.
+
+## Authors
+
+This project was carried out by:
+
+- **Mario Jiménez** - [GitHub profile](https://github.com/mjimcode)
+- **José Miguel Sánchez** - [GitHub profile](https://github.com/JoseMi-Sanchez)
