@@ -43,7 +43,6 @@ Three datasets were provided to conduct the analysis:
 - `functions.py`: A Python file containing the functions used throughout the analysis.
 - `tableau_dashboard.twb`: Tableau file with the visualizations created for the project.
 - `README.md`: This file, which contains an overview of the project and instructions for running the analysis.
-- `presentation_link.txt`: A link to the project presentation slides.
 
 ## Deliverables
 
