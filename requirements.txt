@@ -1,0 +1,8 @@
+matplotlib==3.9.2
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp311-cp311-macosx_10_9_x86_64.whl#sha256=ca93246020dd5cf5864c57fea8d3b0afd6530b245222908737c7f434a105fdc2
+pandas @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f3c5inakly/croot/pandas_1718308972943/work/dist/pandas-2.2.2-cp311-cp311-macosx_10_15_x86_64.whl#sha256=b0a3da9b3c56b4738820f67ec891e7b0e38e29cf7df56efa417f584270ef0e79
+plotly @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c1x0dovyom/croot/plotly_1726245570087/work
+scipy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_15kdberrhr/croot/scipy_1717597139640/work/dist/scipy-1.13.1-cp311-cp311-macosx_10_15_x86_64.whl#sha256=2dffe286a8b1478d13118a812497b6b1db2b72a370e2ea070f6c078ac3d0984a
+seaborn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ee_rs2l_8e/croot/seaborn_1718302941172/work
+statsmodels @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_e7o9t8r4qh/croot/statsmodels_1718381195447/work

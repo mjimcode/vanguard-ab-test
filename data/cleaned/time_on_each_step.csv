@@ -1,0 +1,9 @@
+variation	process_step	time_diff_sec
+Control	Start to Step_1	43
+Control	Step_1 to Step_2	39
+Control	Step_2 to Step_3	94
+Control	Step_3 to Confirm	130
+Test	Start to Step_1	38
+Test	Step_1 to Step_2	48
+Test	Step_2 to Step_3	97
+Test	Step_3 to Confirm	130
