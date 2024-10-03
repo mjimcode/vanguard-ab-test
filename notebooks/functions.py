@@ -57,12 +57,3 @@ def create_tenure_boxplot(df):
     plt.title('Diagrama de Caja y Bigotes: Antigüedad de los Clientes')
     plt.xlabel('Años de Antigüedad')
     plt.show()
-
-def perform_t_test(count_test, nobs_test, count_control, nobs_control):
-    """Realiza una prueba T de dos muestras para comparar las tasas de finalización."""
-    t_stat, p_value = st.ttest_ind(
-        [1]*count_test + [0]*(nobs_test - count_test),
-        [1]*count_control + [0]*(nobs_control - count_control),
-        equal_var=False
-    )
-    return t_stat, p_value

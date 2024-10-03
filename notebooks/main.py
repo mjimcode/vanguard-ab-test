@@ -6,7 +6,6 @@ from functions import (
     create_age_boxplot, create_tenure_boxplot, perform_t_test
 )
 
-# Supongamos que ya tienes cargado el DataFrame df_combined
 
 # Eliminar filas con valores nulos
 df_combined = remove_null_values(df_combined)
@@ -33,8 +32,3 @@ create_age_boxplot(df_combined)
 
 # Crear el boxplot para la antigüedad
 create_tenure_boxplot(df_combined)
-
-# Realizar una prueba T (necesitas definir count_test, nobs_test, count_control y nobs_control antes)
-t_stat, p_value = perform_t_test(count_test, nobs_test, count_control, nobs_control)
-print(f"Estadístico t: {t_stat}")
-print(f"Valor p: {p_value}")
