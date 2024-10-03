@@ -60,3 +60,7 @@ This project was carried out by:
 
 - **Mario Jiménez** - [GitHub profile](https://github.com/mjimcode)
 - **José Miguel Sánchez** - [GitHub profile](https://github.com/JoseMi-Sanchez)
+
+## Links
+
+- [Online Project Presentation]([https://link-to-presentation.com](https://docs.google.com/presentation/d/1VGKJeRbxVeP_ZDXmcBar7Sz6ERKyGOMGqYb7gLYkzpE))
