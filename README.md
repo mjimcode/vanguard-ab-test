@@ -53,15 +53,3 @@ Three datasets were provided to conduct the analysis:
 ## Conclusion
 
 This project assesses whether Vanguard’s new UI design led to higher completion rates using statistical analysis, performance metrics, and hypothesis testing. Through data visualization in Tableau, we aim to provide clear insights into user behavior and the effectiveness of the redesign.
-
----
-
-### Links
-
-- [Project Repository](https://github.com/mjimcode/vanguard-ab-test)
-- [Kanban Board](your_kanban_board_link)
-- [Presentation Slides](your_presentation_link)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
