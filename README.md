@@ -25,31 +25,6 @@ Three datasets were provided to conduct the analysis:
 2. **Digital Footprints (df_final_web_data)**: Client online interactions, split into two parts (pt_1 and pt_2). These datasets need to be merged for analysis.
 3. **Experiment Roster (df_final_experiment_clients)**: Identifies which clients participated in the experiment.
 
-## Project Tasks
-
-### Week 5 (Days 1-5)
-
-#### Day 1 & 2: EDA & Data Cleaning
-- Explore the datasets and perform initial **client behavior analysis**.
-- Clean and prepare the data for further analysis.
-
-#### Day 3: Performance Metrics
-- Define and calculate relevant KPIs and success indicators for evaluating the redesign.
-- Analyze the **redesign outcome** by comparing the performance metrics between the control and test groups.
-
-#### Day 4 & 5: Hypothesis Testing & Experiment Evaluation
-- Conduct **hypothesis testing** to assess the effectiveness of the redesign.
-- Evaluate the experiment’s design, duration, and potential biases. Make suggestions for any additional data needed.
-
-### Week 6 (Days 1-4)
-
-#### Day 1 & 2: Tableau Visualizations
-- Create **interactive visualizations** in Tableau to present the findings from the experiment.
-
-#### Day 3 & 4: Final Presentation
-- Finalize the project with a comprehensive analysis and prepare the project presentation.
-- Ensure that all tasks are complete and that the code is organized and structured.
-
 ## Project Setup
 
 1. Clone the repository:
