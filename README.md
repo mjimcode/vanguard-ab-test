@@ -63,4 +63,4 @@ This project was carried out by:
 
 ## Links
 
-- [Online Project Presentation]([https://link-to-presentation.com](https://docs.google.com/presentation/d/1VGKJeRbxVeP_ZDXmcBar7Sz6ERKyGOMGqYb7gLYkzpE))
+- [Online Project Presentation](https://docs.google.com/presentation/d/1VGKJeRbxVeP_ZDXmcBar7Sz6ERKyGOMGqYb7gLYkzpE)
