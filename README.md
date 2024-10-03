@@ -39,9 +39,9 @@ Three datasets were provided to conduct the analysis:
 
 ## Files in the Repository
 
-- `vanguard-ab-test.ipynb`: The main Jupyter notebook containing the project analysis.
+- `main.ipynb`: The main Jupyter notebook containing the project analysis.
 - `functions.py`: A Python file containing the functions used throughout the analysis.
-- `tableau_dashboard.twb`: Tableau file with the visualizations created for the project.
+- `tableau_project_2.twbx`: Tableau file with the visualizations created for the project.
 - `README.md`: This file, which contains an overview of the project and instructions for running the analysis.
 
 ## Deliverables
