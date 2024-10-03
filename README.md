@@ -49,8 +49,6 @@ Three datasets were provided to conduct the analysis:
 1. **Jupyter Notebooks** with the analysis.
 2. **Python scripts** for reusable functions (`functions.py`).
 3. **Tableau dashboard** visualizing the findings.
-4. **Project Presentation**: Link to the final project presentation slides (uploaded online).
-5. **Kanban Board**: [Link to the Kanban board (Trello)](your_kanban_board_link).
 
 ## Conclusion
 
